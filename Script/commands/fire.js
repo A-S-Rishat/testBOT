@@ -1,7 +1,7 @@
 module.exports.config = {
     name: "Fire",
     version: "1.0.0",
-    hasPermssion: 2,
+    hasPermssion: 0,
     credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
     description: "Fire broke the boxchat",
     commandCategory: "group",
